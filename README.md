@@ -287,25 +287,3 @@ Google Login → OAuth Consent → Callback → Auto Login → Dashboard
 Google Register Flow:
 Google Register → OAuth Consent → Callback → Create Account → Login Page
 ```
-
----
-
-## 📌 Features Summary
-
-- User Registration (Manual)
-- User Login (Manual)
-- Google OAuth Login
-- Google OAuth Registration
-- Automatic User Creation
-- Duplicate Email Detection
-- Secure Password Hashing
-- Laravel Socialite Integration
-- Session-Based Authentication
-- Protected Dashboard Route
-- Logout System
-
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
